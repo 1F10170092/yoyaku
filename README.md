@@ -1,1 +1,1 @@
-# yoyaku
+# django-custom-auth
